@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kartikdutta28/portfolio/static/css/main.95704ce7.chunk.css",
+    "main.js": "/kartikdutta28/portfolio/static/js/main.11bbae1d.chunk.js",
+    "main.js.map": "/kartikdutta28/portfolio/static/js/main.11bbae1d.chunk.js.map",
+    "runtime-main.js": "/kartikdutta28/portfolio/static/js/runtime-main.abc3fd71.js",
+    "runtime-main.js.map": "/kartikdutta28/portfolio/static/js/runtime-main.abc3fd71.js.map",
+    "static/js/2.50a704cb.chunk.js": "/kartikdutta28/portfolio/static/js/2.50a704cb.chunk.js",
+    "static/js/2.50a704cb.chunk.js.map": "/kartikdutta28/portfolio/static/js/2.50a704cb.chunk.js.map",
+    "index.html": "/kartikdutta28/portfolio/index.html",
+    "precache-manifest.89ce38ed66a453144eb3af0ec2e0aeb9.js": "/kartikdutta28/portfolio/precache-manifest.89ce38ed66a453144eb3af0ec2e0aeb9.js",
+    "service-worker.js": "/kartikdutta28/portfolio/service-worker.js",
+    "static/css/main.95704ce7.chunk.css.map": "/kartikdutta28/portfolio/static/css/main.95704ce7.chunk.css.map",
+    "static/js/2.50a704cb.chunk.js.LICENSE.txt": "/kartikdutta28/portfolio/static/js/2.50a704cb.chunk.js.LICENSE.txt",
+    "static/media/Avatar.JPG": "/kartikdutta28/portfolio/static/media/Avatar.118a7642.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.abc3fd71.js",
+    "static/js/2.50a704cb.chunk.js",
+    "static/css/main.95704ce7.chunk.css",
+    "static/js/main.11bbae1d.chunk.js"
+  ]
+}
